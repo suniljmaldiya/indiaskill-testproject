@@ -1,3 +1,5 @@
+APplication running on indiaskill-lb-2024035516.us-east-1.elb.amazonaws.com
+
 ECR + ECS (Fargate) + ALB + VPC
 
 Amazon ECR
